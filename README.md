@@ -14,7 +14,7 @@
 
 🔧 Setup & Run Locally
 
-Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/debdoot9804/chatbot-with-langchain-chains-template.git
 
@@ -25,13 +25,13 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-Create a .env file and add your Groq API key:
+## Create a .env file and add your Groq API key:
 
 GROQ_API_KEY=your_api_key_here
 
-Run the app:
+## Run the app:
 
 streamlit run app.py
 
-My streamlit app link :https://langchain-bot-template-groq83.streamlit.app/
+# My streamlit app link :https://langchain-bot-template-groq83.streamlit.app/
 
