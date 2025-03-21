@@ -1,4 +1,4 @@
-Chatbot with LangChain & Groq (Llama 3.3)
+# Chatbot with LangChain & Groq (Llama 3.3)
 🚀 A powerful yet simple chatbot built using LangChain, Prompt Chaining, and Groq's Llama 3.3 model, deployed on Streamlit Cloud.
 
 🔹 Features
