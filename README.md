@@ -13,15 +13,18 @@
 ✅ Simple Streamlit UI for user interaction
 
 🔧 Setup & Run Locally
+
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/debdoot9804/chatbot-with-langchain-chains-template.git
+
 cd your-repo
 
 Install dependencies:
 
 
 pip install -r requirements.txt
+
 Create a .env file and add your Groq API key:
 
 GROQ_API_KEY=your_api_key_here
