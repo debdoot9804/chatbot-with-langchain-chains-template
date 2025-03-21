@@ -3,9 +3,13 @@
 🚀 A powerful yet simple chatbot built using LangChain, Prompt Chaining, and Groq's Llama 3.3 model, deployed on Streamlit Cloud.
 
 🔹 Features
+
 ✅ Uses LangChain for prompt engineering & chaining
+
 ✅ Integrates Groq's Llama 3.3 for responses
+
 ✅ Deployed on Streamlit Cloud
+
 ✅ Simple Streamlit UI for user interaction
 
 🔧 Setup & Run Locally
