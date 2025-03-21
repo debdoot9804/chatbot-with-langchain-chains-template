@@ -18,7 +18,6 @@
 
 git clone https://github.com/debdoot9804/chatbot-with-langchain-chains-template.git
 
-cd your-repo
 
 Install dependencies:
 
